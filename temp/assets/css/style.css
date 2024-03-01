@@ -360,7 +360,7 @@ h6 {
 
 @media (min-width: 1200px) {
   .logo {
-    width: 280px;
+    width: 215px;
   }
 }
 
@@ -602,7 +602,7 @@ h6 {
   top: 60px;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 215px;
   z-index: 996;
   transition: all 0.3s;
   padding: 20px;
@@ -615,7 +615,7 @@ h6 {
 
 @media (max-width: 1199px) {
   .sidebar {
-    left: -300px;
+    left: -215px;
   }
 }
 
@@ -633,7 +633,7 @@ h6 {
 
   #main,
   #footer {
-    margin-left: 300px;
+    margin-left: 215px;
   }
 }
 
@@ -651,7 +651,7 @@ h6 {
   }
 
   .toggle-sidebar .sidebar {
-    left: -300px;
+    left: -215px;
   }
 }
 
@@ -1230,4 +1230,12 @@ h6 {
   text-align: center;
   font-size: 13px;
   color: #012970;
+}
+
+.text-primary-2 {
+  color: #012970;
+}
+
+.text-primary-3 {
+  color: #3e4f6f;
 }
